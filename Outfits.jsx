@@ -1,1 +1,0 @@
-export default function Outfits() { return <div>Mina outfits</div>; }
